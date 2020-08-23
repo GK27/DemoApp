@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="retry">RETRY</string>
+    <string name="alert_enter_the">Please enter the </string>
+    <string name="alert_valid_mail">Please enter the valid email </string>
+    <string name="alert_choose">Please choose the </string>
+    <string name="alert_choose_any">Please choose any one option </string>
+    <string name="alert_select_any">Please Select any one </string>
+    <string name="ans_title">Questions with answer</string>
+
+
+</resources>
